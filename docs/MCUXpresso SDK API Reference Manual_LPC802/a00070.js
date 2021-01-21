@@ -1,0 +1,67 @@
+var a00070 =
+[
+    [ "FSL_CLOCK_DRIVER_VERSION", "a00070.html#ga0c0cf401613f31feb4a9eb723ad51154", null ],
+    [ "CLOCK_FRO_SETTING_API_ROM_ADDRESS", "a00070.html#gaf4232ca3ff8c9ea3d8b3cbe4bac6d87a", null ],
+    [ "CLOCK_FAIM_BASE", "a00070.html#ga0da8ff794475b44b15cda07999bc8678", null ],
+    [ "ADC_CLOCKS", "a00070.html#gaef5bfe2c53a7ededa861c4e414cdbf36", null ],
+    [ "ACMP_CLOCKS", "a00070.html#gaa540fadbafefad92f9f7ae3f63b7a45c", null ],
+    [ "DAC_CLOCKS", "a00070.html#gab3c8a974e25f615fe023579c847fae6c", null ],
+    [ "SWM_CLOCKS", "a00070.html#gad0c6602129535798b81d753e67cabc99", null ],
+    [ "ROM_CLOCKS", "a00070.html#gaffc6cb67ee605165b0660db6031d5871", null ],
+    [ "SRAM_CLOCKS", "a00070.html#ga06cf7a516d7600127c0af0e1e0cc5759", null ],
+    [ "IOCON_CLOCKS", "a00070.html#ga7c6017a8657328bdaad58beb19de84e1", null ],
+    [ "GPIO_CLOCKS", "a00070.html#gac86986db423673c1d9b46882ccd6b3a9", null ],
+    [ "GPIO_INT_CLOCKS", "a00070.html#ga4b1754d575449d4dab7f7e3f0131650c", null ],
+    [ "DMA_CLOCKS", "a00070.html#ga5a8ba9cbce79bf443b2b1ba97d4c5475", null ],
+    [ "CRC_CLOCKS", "a00070.html#ga661e3aff590ce2f086ba06745317480b", null ],
+    [ "WWDT_CLOCKS", "a00070.html#ga23dea91a4cc65d3b9ba93c83313496a1", null ],
+    [ "SCT_CLOCKS", "a00070.html#gac72477e518b30ceb277b83f555ac0d9e", null ],
+    [ "I2C_CLOCKS", "a00070.html#gac0c74371f4f724c78ef233de79c3cf14", null ],
+    [ "USART_CLOCKS", "a00070.html#ga2172b1f5c29b7d0bf0fe8a9c9d45ed43", null ],
+    [ "SPI_CLOCKS", "a00070.html#ga2323a706e6e7796fa2e352a5b5a70f59", null ],
+    [ "CAPT_CLOCKS", "a00070.html#gad73456f246d91b7e9dcbe6c6fc180a2f", null ],
+    [ "CTIMER_CLOCKS", "a00070.html#gabdb5fc301b32e8998fb9b52e86c5cc1a", null ],
+    [ "MTB_CLOCKS", "a00070.html#ga2b8416b451bb271a2ffce397ef822dff", null ],
+    [ "MRT_CLOCKS", "a00070.html#gac3a1bd1656603951722b345b45f888e9", null ],
+    [ "WKT_CLOCKS", "a00070.html#ga24f65b321ca1b862cf159bec396453bd", null ],
+    [ "CLK_GATE_DEFINE", "a00070.html#gaea083b34e0ae608a94fce91da973a544", null ],
+    [ "clock_ip_name_t", "a00070.html#ga23c8b3ae62f7865b2e228408be95946d", null ],
+    [ "clock_name_t", "a00070.html#gaf74854e9bcee544d7646c5bafdc00bd3", [
+      [ "kCLOCK_CoreSysClk", "a00070.html#ggaf74854e9bcee544d7646c5bafdc00bd3a1de4a40f5399eb025d5faefda7491918", null ],
+      [ "kCLOCK_MainClk", "a00070.html#ggaf74854e9bcee544d7646c5bafdc00bd3a86d48329b3492ab94a5da3925c73622f", null ],
+      [ "kCLOCK_Fro", "a00070.html#ggaf74854e9bcee544d7646c5bafdc00bd3a01a946b874db04d12aba4c3bbe461580", null ],
+      [ "kCLOCK_FroDiv", "a00070.html#ggaf74854e9bcee544d7646c5bafdc00bd3a01d0c099adda9e435281c887b12095a8", null ],
+      [ "kCLOCK_ExtClk", "a00070.html#ggaf74854e9bcee544d7646c5bafdc00bd3a30e6333c132740b84bf2ce94b8c44a8f", null ],
+      [ "kCLOCK_LPOsc", "a00070.html#ggaf74854e9bcee544d7646c5bafdc00bd3aab25a81f1aefcd33b6de1e10e3169c41", null ],
+      [ "kCLOCK_Frg", "a00070.html#ggaf74854e9bcee544d7646c5bafdc00bd3afbe10dfd8b346f6aab8025638df3ce29", null ]
+    ] ],
+    [ "clock_select_t", "a00070.html#ga59a363f0296ea51011dd86b405d5db58", null ],
+    [ "clock_divider_t", "a00070.html#gac344a8334a482bcbcbdf0c4828db872c", null ],
+    [ "clock_fro_src_t", "a00070.html#ga9ff656514a680eef6ffbf40f4eef0bfb", [
+      [ "kCLOCK_FroSrcLpwrBootValue", "a00070.html#gga9ff656514a680eef6ffbf40f4eef0bfba98131c5eeabd0e169e93b174aebdcf86", null ]
+    ] ],
+    [ "clock_fro_osc_freq_t", "a00070.html#ga85bf7440c0d77269e3db764083110334", [
+      [ "kCLOCK_FroOscOut18M", "a00070.html#gga85bf7440c0d77269e3db764083110334a60f89d729c96295d1aaa741a412d58ab", null ],
+      [ "kCLOCK_FroOscOut24M", "a00070.html#gga85bf7440c0d77269e3db764083110334a01135115df0c0b0525f2b1391ee9d9ca", null ],
+      [ "kCLOCK_FroOscOut30M", "a00070.html#gga85bf7440c0d77269e3db764083110334a29c4fdcb48fba40928b278765d0e3843", null ]
+    ] ],
+    [ "clock_main_clk_src_t", "a00070.html#gab68022e8d8f60a72f86a6a6c13b6e2f4", [
+      [ "kCLOCK_MainClkSrcFro", "a00070.html#ggab68022e8d8f60a72f86a6a6c13b6e2f4a0aecd9451c5bf4525fe17a7b4734f58f", null ],
+      [ "kCLOCK_MainClkSrcExtClk", "a00070.html#ggab68022e8d8f60a72f86a6a6c13b6e2f4a85dbf0a96c672abcfbc08dfc231088d6", null ],
+      [ "kCLOCK_MainClkSrcLPOsc", "a00070.html#ggab68022e8d8f60a72f86a6a6c13b6e2f4acb9810ab5676cca7da756b2c28205c12", null ],
+      [ "kCLOCK_MainClkSrcFroDiv", "a00070.html#ggab68022e8d8f60a72f86a6a6c13b6e2f4afa92bbf8fcfb74ceea172667409f7643", null ]
+    ] ],
+    [ "CLOCK_SetMainClkSrc", "a00070.html#gaa6be3b84fd2a57ec1165954d6c4564e8", null ],
+    [ "CLOCK_GetFRGClkFreq", "a00070.html#ga06c32781b31c290611df9ddfcba6b8e5", null ],
+    [ "CLOCK_GetMainClkFreq", "a00070.html#gaaa964f2c87ddd18a09c5201e22925fe6", null ],
+    [ "CLOCK_GetFroFreq", "a00070.html#gafe0b410109a29c465df0b4dcbb338ff3", null ],
+    [ "CLOCK_GetCoreSysClkFreq", "a00070.html#gaca0f0dcb61434d727340ddde5f131d91", null ],
+    [ "CLOCK_GetClockOutClkFreq", "a00070.html#gaf85cf02f515cd756873bf2a74ee143e2", null ],
+    [ "CLOCK_GetUart0ClkFreq", "a00070.html#ga47b7ce0a4c83a359f4bc1f2714a13761", null ],
+    [ "CLOCK_GetUart1ClkFreq", "a00070.html#ga10c8c8ccc077404a00e1121b5d18e4a8", null ],
+    [ "CLOCK_GetFreq", "a00070.html#ga53acae220d651789bb505c53c73ecf2b", null ],
+    [ "CLOCK_GetLPOscFreq", "a00070.html#ga5a9205e0888bdc8579d3851313662671", null ],
+    [ "CLOCK_GetExtClkFreq", "a00070.html#ga2d33480c8967a6bac98512e0c47c6b07", null ],
+    [ "g_Wdt_Osc_Freq", "a00070.html#ga73a69ec6e63f37b9341025bbe87ced45", null ],
+    [ "g_Ext_Clk_Freq", "a00070.html#ga386d59c21453d1914f3c8194010ff277", null ]
+];
